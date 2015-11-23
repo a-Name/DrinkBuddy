@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="title_activity_predict_places">PredictPlacesActivity</string>
+    <string name="title_activity_accueil">AccueilActivity</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="title_activity_test__places">Test_Places</string>
+</resources>
